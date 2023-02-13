@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package clase_002_programacion;
+package main;
 
+import vista.interfaz;
 import modelo.conexion;
 import java.sql.SQLException;
 import javax.swing.JOptionPane;
@@ -35,7 +36,7 @@ public class Clase_002_programacion {
        interfaz.setSize(800, 500);
        // lo hacemos visible
        interfaz.setVisible(true);
-       
+      
        
        
        
